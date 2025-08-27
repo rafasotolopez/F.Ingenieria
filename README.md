@@ -1,2 +1,3 @@
-# practica1_fdp
-My first repository in GitHub
+# Fundamentos de Programación
+
+Semestre 2026-1
