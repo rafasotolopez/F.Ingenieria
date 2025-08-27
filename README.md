@@ -1,4 +1,5 @@
-# UNAM - Facultad de Ingeniería
-Fundamentos de Programación
+# UNAM
 
-Repositorio para Ingeniería en Computación de la FI UNAM
+Facultad de Ingeniería
+
+Repositorio para Ingeniería en Computación
